@@ -20,10 +20,11 @@ p{
 #regina{
   color:red;
       }
+
 img{
   height: 500px;
   width: 500px;
-
+  padding-right: 30px;
 }
 #msokoi{
   color:pink;
