@@ -3,7 +3,9 @@ h1{
   font-family: 'courier',cursive;
   font-size:45px;
   text-align: center;  }
-
+html{
+ padding: 90px; 
+ }
 p{
   font-family: 'Brush script MT',cursive;
   color: black;
