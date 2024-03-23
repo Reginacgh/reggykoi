@@ -1,0 +1,30 @@
+ROBOTICS
+AGCCI-UN WOMEN
+Robotics is an automated operated machine that replace human effort
+it is powered by electicity and programmed to carry out tasks like cleaning driving
+robotics involves the design construction operation and use of robots The goal of robotics is to design machines that can help and assist humans
+classification of robots
+a robot senses its environment using sensors and react accordingly by itself
+a robot can be controlled by humans either directly or remotely from aplace far away
+they can be hardware or softwarerobotics (bots)
+hardware robots can be classified as.
+teleoperated
+autonomous
+semi-autonomous 
+application of robots
+components of robots
+motor
+sensors
+chasis/skeleton
+brain
+batteries/power
+feet/arm
+
+CODING VSROBOTICS
+variables
+loops
+functions
+commands/controls
+SIMULATORS AND MICROCONTROLLERS
+asimulator is a machine designed to provide a realistic imitation of the controls and operation of a system
+a micro controller is a compact integrated 

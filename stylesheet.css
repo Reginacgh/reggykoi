@@ -1,0 +1,28 @@
+h1{
+  color:blue;
+  font-family: 'courier',cursive;
+  font-size:45px;
+  text-align: center;  }
+
+p{
+  font-family: 'Brush script MT',cursive;
+  color: black;
+  font-size: 32px;
+      }
+#introduction{
+  color:blue;
+      }
+#regina{
+  color:red;
+      }
+img{
+  height: 500px;
+  width: 500px;
+
+}
+#msokoi{
+  color:pink;
+  font-family: 'Brush script MT',cursive;
+ font-size: 32px;
+
+}
